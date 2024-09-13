@@ -1,13 +1,22 @@
+<h3 align="center">Hotel Management System</h3>
+
+  <p align="center">
+    Full-stack website implemented using Spring Boot and React.js 
+    <br />
+    <br />
+ 
+  </p>
+<!-- ABOUT THE PROJECT -->
 
 ## About The Project
  
-This website is a final project we made for our Software Engineering class at United College Of Engineering & research. 
+This website is a final project we made for our Software Engineering class Dr A.P.J Abdul Kalam Technical University Lucknow. 
 
 The project implements a Hotel Management System where guests can book hotel rooms, desk clerks can approve reservations and managers can control hotel employees (for example, working hours of desk clerks).
 
 Our app supports different roles and displays content accordingly. There are currently three roles available: Guest, Manager and Desk Clerk.
 
-In order to get access to the admin panel, you have to log in as a manager or desk clerk via this [VPN access link](https://hms.ironsoul.me/vpn-access). For the sake of simplicity, this URL is publicly available but in the real project, it should be accessible only through VPN. 
+In order to get access to the admin panel, you have to log in as a manager or desk clerk .
 
 ### Built With
 
@@ -33,8 +42,8 @@ Here are things you want to have on your computer beforehand.
 ### Installation
 
 1. Clone the repo
-   ```sh (https://github.com/neerajer2000/Hotel-Management/blob/main/README.md)
- 
+   ```sh
+   git clone https://github.com/neerajer2000/hotel-management
    ```
 2. Run using mvn
    ```sh
@@ -44,3 +53,5 @@ Here are things you want to have on your computer beforehand.
    ```sh
    cd client && npm install && npm start
    ```
+
+
