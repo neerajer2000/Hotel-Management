@@ -33,8 +33,8 @@ Here are things you want to have on your computer beforehand.
 ### Installation
 
 1. Clone the repo
-   ```sh
- (https://github.com/neerajer2000/Hotel-Management/blob/main/README.md)
+   ```sh (https://github.com/neerajer2000/Hotel-Management/blob/main/README.md)
+ 
    ```
 2. Run using mvn
    ```sh
