@@ -1,7 +1,7 @@
 
 ## About The Project
 ![Screenshot](./assets/screen.png)
-This website is a final project we made for our Software Engineering class at Nazarbayev University. 
+This website is a final project we made for our Software Engineering class at United College Of Engineering & research. 
 
 The project implements a Hotel Management System where guests can book hotel rooms, desk clerks can approve reservations and managers can control hotel employees (for example, working hours of desk clerks).
 
