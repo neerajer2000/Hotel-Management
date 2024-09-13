@@ -34,7 +34,7 @@ Here are things you want to have on your computer beforehand.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ironsoul0/hotel-management
+ (https://github.com/neerajer2000/Hotel-Management/blob/main/README.md)
    ```
 2. Run using mvn
    ```sh
